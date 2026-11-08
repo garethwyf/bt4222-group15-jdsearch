@@ -1,0 +1,7 @@
+lightgbm==4.6.0
+pandas
+numpy
+scipy
+pyarrow
+torch
+google-api-python-client
