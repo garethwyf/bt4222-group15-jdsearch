@@ -1,0 +1,8 @@
+*.parquet
+*.npz
+*.pt
+*.txt
+!requirements.txt
+data/
+artifacts/
+.ipynb_checkpoints/
